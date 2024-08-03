@@ -11,7 +11,7 @@ Build mode: need to prepare a server, running
 Need to prepare a server, run the installation program, such as encountering problems can join the DIS to exchange!
 
 If you have any problems, you can join DIS to communicate with us:
-https://discord.gg/JKaTZ2fH
+https://discord.gg/xr4YF8cVx3
 
 Base Version Modified Content:
  Basic tab:
