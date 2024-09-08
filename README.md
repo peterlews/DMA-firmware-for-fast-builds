@@ -1,7 +1,3 @@
-
-
-![20240803182048](https://github.com/user-attachments/assets/14364952-f85e-4eba-bc6a-8423f76b12ba)
-
 DMA OL
 DMA OL is a fast and integrated tool designed for creating DMA firmware. Leveraging Vivado Cloud technology, it quickly sets up an IDE environment on the server, enabling efficient simulation and firmware creation directly from your web browser—no local environment configuration required!
 
@@ -16,6 +12,9 @@ GPU: A10 x 1
 Storage: 24 GB
 Build Mode
 To build and run DMA OL, you need to prepare a server and execute the installation program. If you encounter any issues or have questions, you can join our Discord community for support and discussion: Join Discord.
+
+![20240803182048](https://github.com/user-attachments/assets/14364952-f85e-4eba-bc6a-8423f76b12ba)
+
 
 Base Version Modified Content:
  Basic tab:
