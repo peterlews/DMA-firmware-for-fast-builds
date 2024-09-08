@@ -1,11 +1,11 @@
 # DMA OL
 
-**DMA OL** is a fast and integrated tool designed for creating DMA firmware. Utilizing Vivado Cloud technology, it rapidly sets up an IDE environment on the server, allowing users to simulate and build firmware directly from their web browser without local environment configuration.
+**DMA OL** is a fast, integrated tool for creating DMA firmware. Leveraging Vivado Cloud technology, it sets up an IDE environment on the server, enabling users to simulate and build firmware directly from their web browser without local configuration.
 
-## Current Progress
+## Features
 
-- **Basic Open-Source Version**: Supports eac and other basic games.
-- **Advanced Version**: Includes support for VGA, Faceit, and other advanced features (premium, not free).
+- **Basic Open-Source Version**: Supports basic games like EAC.
+- **Professional Version**: Includes support for additional simulation types such as FACEIT, VGK, and ACE (premium access required).
 
 ## Server Specifications
 
@@ -15,16 +15,28 @@
 - **GPU**: A10 x 1
 - **Storage**: 24 GB
 
-## Build Mode
+## Getting Started
 
-1. Prepare a server.
-2. Run the installation program.
-3. For issues or support, join our [Discord community](https://discord.gg/xr4YF8cVx3).
+1. **Prepare a Server**: Set up an appropriate server environment.
+2. **Run the Installation Program**: Follow the instructions to install DMA OL.
+3. **Join Our Community**: For support and discussions, join our [Discord community](https://discord.gg/xr4YF8cVx3).
 
-## Open Source Program
+## Installation
 
-- **Basic Features**: Supports only basic modifications, such as those required for games like EAC BE.
-- **Advanced Features**: For access to more advanced versions, please visit our website for more information.
+For detailed installation instructions and configuration, refer to the documentation in this repository.
+
+## Contributing
+
+If you’d like to contribute to the project, please fork the repository and submit a pull request. For more details on contributing, check our contributing guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+If you encounter issues or need help, please reach out on our [Discord community](https://discord.gg/xr4YF8cVx3) or open an issue on GitHub.
+
 
 
 
