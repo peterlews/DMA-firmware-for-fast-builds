@@ -1,17 +1,21 @@
-DMA OL is a fast and integrated tool to create DMA firmware, the main application technology uses Vivado Cloud technology to quickly build an IDE environment in the server to simulate the projections, everyone can quickly build a firmware in the web page, without environmental configuration! 
+
 
 ![20240803182048](https://github.com/user-attachments/assets/14364952-f85e-4eba-bc6a-8423f76b12ba)
 
+DMA OL
+DMA OL is a fast and integrated tool designed for creating DMA firmware. Leveraging Vivado Cloud technology, it quickly sets up an IDE environment on the server, enabling efficient simulation and firmware creation directly from your web browser—no local environment configuration required!
 
-Use the server specification model:
-Ecs.gni2.3xlarge 14 56 A10 * 1 24GB * 1
-Current Progress: Only open source basic version, only supports
-Currently only open source basic version, only support eac be and other games, advanced version for vga faceit and other not free open! * 24GB * 1 current progress
-Build mode: need to prepare a server, running
-Need to prepare a server, run the installation program, such as encountering problems can join the DIS to exchange!
+Current Progress
+As of now, we offer a basic open-source version of DMA OL. This version supports a limited range of applications, including basic eac and other games. Advanced features, such as support for VGA and Faceit, are available in the premium version.
 
-If you have any problems, you can join DIS to communicate with us:
-https://discord.gg/xr4YF8cVx3
+Server Specifications
+Model: Ecs.gni2.3xlarge
+CPU: 14 vCPUs
+Memory: 56 GB
+GPU: A10 x 1
+Storage: 24 GB
+Build Mode
+To build and run DMA OL, you need to prepare a server and execute the installation program. If you encounter any issues or have questions, you can join our Discord community for support and discussion: Join Discord.
 
 Base Version Modified Content:
  Basic tab:
