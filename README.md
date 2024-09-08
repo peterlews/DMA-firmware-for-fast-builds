@@ -21,6 +21,13 @@
 2. Run the installation program.
 3. For issues or support, join our [Discord community](https://discord.gg/xr4YF8cVx3).
 
+## Open Source Program
+
+- **Basic Features**: Supports only basic modifications, such as those required for games like EAC BE.
+- **Advanced Features**: For access to more advanced versions, please visit our website for more information.
+
+
+
 ![20240803182048](https://github.com/user-attachments/assets/14364952-f85e-4eba-bc6a-8423f76b12ba)
 
 
