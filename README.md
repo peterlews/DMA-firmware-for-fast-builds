@@ -35,7 +35,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter issues or need help, please reach out on our [Discord community](https://discord.gg/xr4YF8cVx3) or open an issue on GitHub.
+If you encounter issues or need help, please reach out on our [Discord community](https://discord.gg/qGKXR4ankv) or open an issue on GitHub.
 
 
 
