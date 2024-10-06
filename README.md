@@ -19,7 +19,7 @@
 
 1. **Prepare a Server**: Set up an appropriate server environment.
 2. **Run the Installation Program**: Follow the instructions to install DMA OL.
-3. **Join Our Community**: For support and discussions, join our [Discord community](https://discord.gg/eNxtfFAXYM).
+3. **Join Our Community**: For support and discussions, join our [Discord community](https://discord.gg/5fSeJu94).
 
 ## Installation
 
